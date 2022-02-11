@@ -17,16 +17,15 @@ html {
     box-sizing: inherit;
 }
 
-
 .encabezado{
-    background-color: blueviolet;
+    background-color: var(--primario);
     border: 1px;
 }
 
 .contenedor{
-    background-color: black;
+    background-color: var(--grisClaro);
 }
 
 .entrada{
-    background-color: yellow;
+    background-color: var(--oscuro);
 }
