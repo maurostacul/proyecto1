@@ -1,1 +1,2 @@
 Este es un blog sobre tecnologia.
+Tendra 6 secciones informativas y 4 botones de diferentes tematicas. Estos botones estaran en la barra de navegacion y nos enviaran a diferentes pestañas.
