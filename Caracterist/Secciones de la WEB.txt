@@ -1,0 +1,24 @@
+Header = Imagen ilustrativa de tecnologia
+Una barra de navegacion con 4 botones
+Un main con 6 entradas - 6 divs en grid
+footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
